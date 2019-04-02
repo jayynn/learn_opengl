@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiangzhenyuan/Desktop/personal/learn_opengl/opengl_01/glad/glad.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glad.h
+-
+windows.h
+-
+winapifamily.h
+-
+dlfcn.h
+-
+
+/usr/local/include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+/usr/local/include/glad/glad.h
+windows.h
+-
+khrplatform.h
+-
+

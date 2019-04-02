@@ -1,0 +1,3 @@
+/Users/jiangzhenyuan/Desktop/personal/learn_opengl/opengl_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiangzhenyuan/Desktop/personal/learn_opengl/opengl_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiangzhenyuan/Desktop/personal/learn_opengl/opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir
